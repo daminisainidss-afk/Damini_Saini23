@@ -6,19 +6,19 @@ A dedicated Data Analyst specializing in the extraction, transformation, and vis
 
 **Core Technical Competencies**
 
-**Programming & Scripting:**
+(Programming & Scripting):-
 
 Python (Pandas, NumPy, Scikit-learn)
-**
-Database Management:*****
+
+(Database Management):-
 
 Advanced SQL (MySQL), Schema Design, and Query Optimization
-**
-Business Intelligence:
+
+(Business Intelligence):-
 
 Advanced Excel (Power Pivot, VBA, Complex Modeling)
-**
-**Applied AI:**** 
+
+(Applied AI):-
 
 Leveraging Large Language Models for data cleaning, automated reporting, and predictive analysis
 
