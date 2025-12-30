@@ -1,5 +1,7 @@
 Hey, I am Damini Saini
+
 **Professional Summary**
+
 A dedicated Data Analyst specializing in the extraction, transformation, and visualization of complex data structures. My expertise lies in converting raw information into strategic business assets using Python, SQL, and Advanced Excel. I bridge the gap between technical data architecture and executive decision-making, ensuring that every insight is backed by statistical rigor and commercial relevance.
 
 **Core Technical Competencies**
